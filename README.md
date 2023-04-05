@@ -1,2 +1,6 @@
 # odin-recipes
-A basic recipe website.
+Create a basic recipe website.
+
+Task is to test recently ackquired skills in HTML. The website will be re-visited once CSS is introduced.
+
+
