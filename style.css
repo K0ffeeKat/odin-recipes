@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+  }
+
+.header {
+    background-color: rgb(197, 196, 196);
+    text-align: center;
+}
+
+#photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.adj {
+
+    width: 500px;
+    height: auto;
+    
+}
+
+.list {
+    background-color: rgb(231, 230, 230);
+    color: rgb(49, 49, 49);
+}
+
+#addit {
+    background-color: rgb(252, 234, 212);
+    color: rgb(20, 20, 20);    
+}
+
+.two {
+    color: rgb(26, 26, 26);
+}
+
+#small {
+    background-color: rgb(161, 219, 216);
+}
+
+.desc {
+    text-align: center;
+}
